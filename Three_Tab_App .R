@@ -73,7 +73,7 @@ ui <- fluidPage(theme = shinytheme("cerulean"),
     ),
     
     # ----- Tab 2: Demand Page -----
-    tabPanel("Demand Page", value = "demand",
+    tabPanel("Demand Page - JR test", value = "demand",
              fluidRow(
                column(6,
                       wellPanel(
